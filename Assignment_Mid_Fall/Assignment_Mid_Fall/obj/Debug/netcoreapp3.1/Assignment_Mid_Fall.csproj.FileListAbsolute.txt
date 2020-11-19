@@ -1,0 +1,13 @@
+C:\Users\Acer\Desktop\Fall 20-21\C#\MidTerm\Assisgnment Mid Fall 20-21\Assignment_Mid_Fall\Assignment_Mid_Fall\bin\Debug\netcoreapp3.1\Assignment_Mid_Fall.exe
+C:\Users\Acer\Desktop\Fall 20-21\C#\MidTerm\Assisgnment Mid Fall 20-21\Assignment_Mid_Fall\Assignment_Mid_Fall\bin\Debug\netcoreapp3.1\Assignment_Mid_Fall.deps.json
+C:\Users\Acer\Desktop\Fall 20-21\C#\MidTerm\Assisgnment Mid Fall 20-21\Assignment_Mid_Fall\Assignment_Mid_Fall\bin\Debug\netcoreapp3.1\Assignment_Mid_Fall.runtimeconfig.json
+C:\Users\Acer\Desktop\Fall 20-21\C#\MidTerm\Assisgnment Mid Fall 20-21\Assignment_Mid_Fall\Assignment_Mid_Fall\bin\Debug\netcoreapp3.1\Assignment_Mid_Fall.runtimeconfig.dev.json
+C:\Users\Acer\Desktop\Fall 20-21\C#\MidTerm\Assisgnment Mid Fall 20-21\Assignment_Mid_Fall\Assignment_Mid_Fall\bin\Debug\netcoreapp3.1\Assignment_Mid_Fall.dll
+C:\Users\Acer\Desktop\Fall 20-21\C#\MidTerm\Assisgnment Mid Fall 20-21\Assignment_Mid_Fall\Assignment_Mid_Fall\bin\Debug\netcoreapp3.1\Assignment_Mid_Fall.pdb
+C:\Users\Acer\Desktop\Fall 20-21\C#\MidTerm\Assisgnment Mid Fall 20-21\Assignment_Mid_Fall\Assignment_Mid_Fall\obj\Debug\netcoreapp3.1\Assignment_Mid_Fall.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\Fall 20-21\C#\MidTerm\Assisgnment Mid Fall 20-21\Assignment_Mid_Fall\Assignment_Mid_Fall\obj\Debug\netcoreapp3.1\Assignment_Mid_Fall.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\Fall 20-21\C#\MidTerm\Assisgnment Mid Fall 20-21\Assignment_Mid_Fall\Assignment_Mid_Fall\obj\Debug\netcoreapp3.1\Assignment_Mid_Fall.AssemblyInfo.cs
+C:\Users\Acer\Desktop\Fall 20-21\C#\MidTerm\Assisgnment Mid Fall 20-21\Assignment_Mid_Fall\Assignment_Mid_Fall\obj\Debug\netcoreapp3.1\Assignment_Mid_Fall.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Fall 20-21\C#\MidTerm\Assisgnment Mid Fall 20-21\Assignment_Mid_Fall\Assignment_Mid_Fall\obj\Debug\netcoreapp3.1\Assignment_Mid_Fall.dll
+C:\Users\Acer\Desktop\Fall 20-21\C#\MidTerm\Assisgnment Mid Fall 20-21\Assignment_Mid_Fall\Assignment_Mid_Fall\obj\Debug\netcoreapp3.1\Assignment_Mid_Fall.pdb
+C:\Users\Acer\Desktop\Fall 20-21\C#\MidTerm\Assisgnment Mid Fall 20-21\Assignment_Mid_Fall\Assignment_Mid_Fall\obj\Debug\netcoreapp3.1\Assignment_Mid_Fall.genruntimeconfig.cache
